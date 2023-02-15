@@ -12,7 +12,6 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 python 3.8
 pyenv
 poetry 
-
 ```
 
 ### 🔧 Instalação
@@ -21,19 +20,16 @@ Clonar o repositório, usando
 
 ```
 git clone https://github.com/c-Tos1wa/report-pdf-streamlit.git
-
 ```
 ou
 
 ```
 git clone git@github.com:c-Tos1wa/report-pdf-streamlit.git
-
 ```
 dentro da pasta em que os arquivos foram clonados
 
 ```
 poetry install
-
 ```
 
 ## 🛠️ Construído com
