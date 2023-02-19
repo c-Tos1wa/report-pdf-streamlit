@@ -4,8 +4,6 @@ Esta é a análise dos dados do Yahoo Finance criada durante evento da Data Viki
 
 ## 🚀 Preparação do ambiente
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste. 
-
 ### 📋 Pré-requisitos
 
 ```
